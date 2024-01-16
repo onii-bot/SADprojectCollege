@@ -1,0 +1,1 @@
+<footer class="main">Welcome to &copy;  <strong>Gym </strong></footer>
